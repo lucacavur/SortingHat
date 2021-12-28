@@ -1,0 +1,26 @@
+h1{
+    color:black;;
+}
+
+
+#main-container{
+    text-align: center;
+    background-color: white;
+    margin:50px;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding: 30px;
+}
+
+
+body{
+    background-color: darkkhaki;
+}
+
+#heading{
+    background-color:bisque;
+    margin-left:70px;
+    margin-right:70px;
+    
+}
+
